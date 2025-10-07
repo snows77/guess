@@ -11,8 +11,12 @@
 body {
   background-color: #f5f5fa;
 
-  font-family: "Noto Sans", sans-serif;
-  font-optical-sizing: auto;
+  font-family: "Noto Sans", serif;
+}
+
+input, 
+button {
+  font-family: "Noto Sans", serif;
 }
 
 button {
